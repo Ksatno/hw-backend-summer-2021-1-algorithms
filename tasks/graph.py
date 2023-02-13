@@ -4,7 +4,7 @@ __all__ = (
     'Node',
     'Graph'
 )
-
+as
 
 class Node:
     def __init__(self, value: Any):
